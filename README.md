@@ -141,60 +141,50 @@ end
 assign counter=counter_down;  
 
 endmodule
+```
 
 
 
+RTL LOGIC UP COUNTER AND DOWN COUNTER
+
+UP COUNTER:
+
+![AC](https://user-images.githubusercontent.com/121559414/212638469-e09d7d10-8679-46f3-a504-779586aa42eb.png)
 
 
-RTL LOGIC UP COUNTER AND DOWN COUNTER  
+DOWN COUNTER:
+
+![AD](https://user-images.githubusercontent.com/121559414/212638572-cf9785a0-4aa0-4378-a069-b3b2e4dc7d08.png)
 
 
-UP COUNTER
-:
-
-
-![AC](https://user-images.githubusercontent.com/121559414/212626707-4c8e7c4f-e9b2-480d-84f5-d72c3fb84e53.png)
-
-
-DOWN COUNTER
-:
-
-
-![AD](https://user-images.githubusercontent.com/121559414/212626913-bcdbcc26-4586-4108-af82-01797b05a97a.png)
-
-
-
-TIMING DIGRAMS FOR COUNTER 
-
-UP COUNTER
-:
-
-![AE](https://user-images.githubusercontent.com/121559414/212627235-1d831fb7-8e97-427d-bed7-198bdb27fe83.png)
-
-
-DOWN COUNTER
-:
-
-![AF](https://user-images.githubusercontent.com/121559414/212627457-5442f6c3-63b4-461b-a1d6-4d20263faf6c.png)
-
-
-
-TRUTH TABLE:
+TIMING DIGRAMS FOR COUNTER
 
 
 UP COUNTER:
 
-![AG](https://user-images.githubusercontent.com/121559414/212627698-b7f04c16-8779-4c5f-8c8b-03394124e2d9.png)
+![AE](https://user-images.githubusercontent.com/121559414/212638781-cd65011f-f58d-4827-9500-a3214e63dfd7.png)
 
 
-DOWN COUMTER:
+DOWN COUNTER:
 
-![AH](https://user-images.githubusercontent.com/121559414/212627896-180391f2-9b47-4326-a2be-12e69b55a002.png)
+![AF](https://user-images.githubusercontent.com/121559414/212638851-f73b4925-525e-4493-bb00-e9fcd0989cc3.png)
+
+
+TRUTH TABLE
+
+
+UP COUNTER:
+
+![AG](https://user-images.githubusercontent.com/121559414/212639047-aa969186-2b79-4c78-956e-b1c40a62796b.png)
+
+
+DOWN COUNTER:
+
+![AH](https://user-images.githubusercontent.com/121559414/212639231-4f26266f-9ced-4ade-9d0c-fe18dbd5adaf.png)
 
 
 
-RESULTS 
+RESULTS :
 
 Thus Synchornous counters up counter and down counter circuit are studied and the truth table for different logic gates are verified.
-
 
